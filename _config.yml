@@ -1,0 +1,23 @@
+name: torreyb
+favicon: null
+layout_spectrum: 0.35086220828816295
+typography_spectrum: 0.9706377270631492
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2634247455280274
+  lightness: 0.5203441348858178
+  saturation: 0.39711523498408496
+  rhythmicContrast: 0.007068112259730697
+purpose: []
