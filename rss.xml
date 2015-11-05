@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[torreyb]]></title>
         <description><![CDATA[torreyb]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/torreyb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 04:43:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 Nov 2015 04:45:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/torreyb/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://torrey-barrett.com/newfolio/wp-content/uploads/2014/03/round-nobg-300x300.png" alt="" title="">]]></description>
+            <link>http://torrey-barrett.com/</link>
+            <guid isPermaLink="false">79a26151-310c-4039-b096-47fbe75b49ba</guid>
+            <pubDate>Thu, 05 Nov 2015 04:45:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fcca1d1-0dae-4109-aef7-c6f0fee965fc.jpg">]]></description>
-            <link>undefinedca8383c3-68a4-44a4-8b47-f4e7dcc84968/index.html</link>
+            <link>https://thegrid.ai/torreyb/ca8383c3-68a4-44a4-8b47-f4e7dcc84968/index.html</link>
             <guid isPermaLink="false">ca8383c3-68a4-44a4-8b47-f4e7dcc84968</guid>
             <pubDate>Thu, 05 Nov 2015 04:43:22 GMT</pubDate>
         </item>
